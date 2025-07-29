@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "frmLogin.cs", "WinFormsUser\frmLogin.cs.csproj", "{99B6A880-EE97-4240-BF23-4F0932B70ACD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99B6A880-EE97-4240-BF23-4F0932B70ACD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99B6A880-EE97-4240-BF23-4F0932B70ACD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99B6A880-EE97-4240-BF23-4F0932B70ACD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99B6A880-EE97-4240-BF23-4F0932B70ACD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {441015DE-8F1F-4D0C-9F61-F2F47A0B9534}
+	EndGlobalSection
+EndGlobal
